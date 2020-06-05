@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: ￨ﾓﾝ￧ﾌﾫMark
+Build-Jdk: 9.0.1
+Implementation-Title: springbootdemo2
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.demo.spbootdemo
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/springbootde
+ mo2/
+Created-By: Maven Integration for Eclipse
+
